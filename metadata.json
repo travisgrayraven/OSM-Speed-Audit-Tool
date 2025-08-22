@@ -1,0 +1,5 @@
+{
+  "name": "OSM Speed Auditor",
+  "description": "An application to compare speed limits from OpenStreetMap with signs detected in Google Street View images using Gemini.",
+  "requestFramePermissions": []
+}
